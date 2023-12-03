@@ -240,7 +240,7 @@ export const designText = [
 
 export const contactText = [
   {
-      link: "https://open.kakao.com/o/sIQg6NTf",
+      link: "https://open.kakao.com/me/KKH88",
       title: "KAKAO : Kimkyeongha",
   },
   {
