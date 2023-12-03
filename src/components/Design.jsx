@@ -48,7 +48,7 @@ const Design = () => {
             ref={(el) => (sectionsRef.current[key] = el)
             }
           >           
-            <span className="img no-scroll">
+            <span className="img">
               <img src={des.img} alt={des.name} />
             </span>
             <span className="des__tit">{des.tit}</span>

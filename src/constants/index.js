@@ -8,11 +8,21 @@ import site07 from '../assets/img/site07.png';
 import site08 from '../assets/img/site08.png';
 import site09 from '../assets/img/site09.png';
 import site10 from '../assets/img/site10.png';
+import site11 from '../assets/img/site11.png';
+import site12 from '../assets/img/site12.png';
+import site13 from '../assets/img/site13.png';
+import site14 from '../assets/img/site14.png';
+import site15 from '../assets/img/site15.png';
 
 import des01 from '../assets/img/design01.png';
 import des02 from '../assets/img/design02.png';
 import des03 from '../assets/img/design03.png';
 import des04 from '../assets/img/design04.png';
+import des05 from '../assets/img/design05.png';
+import des06 from '../assets/img/design06.png';
+import des07 from '../assets/img/design07.png';
+import des08 from '../assets/img/design08.png';
+import des09 from '../assets/img/design09.png';
 
 
 export const headerNav = [
@@ -94,7 +104,7 @@ export const siteText = [
         per: "100%",
         detail: "UI/UX디자인, 웹표준마크업",
         tool: "Photoshop, Illustrator, Dreamweaver",
-        skill: "HTML, CSS, Javascript"
+        skill: "HTML, CSS, Javascript, Jquery"
       },
       {
         num: "07",
@@ -104,7 +114,7 @@ export const siteText = [
         per: "100%",
         detail: "UI/UX디자인, 웹표준마크업",
         tool: "Photoshop, Illustrator, Dreamweaver",
-        skill: "HTML, CSS, Javascript"
+        skill: "HTML, CSS, Javascript, Jquery"
       },
       {
         num: "08",
@@ -134,6 +144,56 @@ export const siteText = [
         per: "100%",
         detail: "UI/UX디자인, 웹표준마크업",
         tool: "Photoshop, Illustrator, Dreamweaver",
+        skill: "HTML, CSS, Javascript, Jquery"
+      },
+      {
+        num: "11",
+        // mon: "2016.06",
+        img: site11,
+        name: "생명보험전문몰 웹/모바일 신규",
+        per: "100%",
+        detail: "UI/UX디자인, 웹표준마크업",
+        tool: "Photoshop, Illustrator, Dreamweaver",
+        skill: "HTML, CSS, Javascript"
+      },
+      {
+        num: "12",
+        // mon: "2016.04",
+        img: site12,
+        name: "현대해상다이렉트카 웹/모바일 신규",
+        per: "100%",
+        detail: "UI/UX디자인, 웹표준마크업",
+        tool: "Photoshop, Illustrator, Dreamweaver",
+        skill: "HTML, CSS, Javascript"
+      },
+      {
+        num: "13",
+        // mon: "2016.04",
+        img: site13,
+        name: "한방보험몰 웹/모바일 신규",
+        per: "100%",
+        detail: "UI/UX디자인, 웹표준마크업",
+        tool: "Photoshop, Illustrator, Dreamweaver",
+        skill: "HTML, CSS, Javascript"
+      },
+      {
+        num: "14",
+        // mon: "2016.02",
+        img: site14,
+        name: "주택화재보험몰 웹/모바일 신규",
+        per: "100%",
+        detail: "UI/UX디자인, 웹표준마크업",
+        tool: "Photoshop, Illustrator, Dreamweaver",
+        skill: "HTML, CSS, Javascript"
+      },
+      {
+        num: "15",
+        // mon: "2016.01",
+        img: site15,
+        name: "암실비보험비교몰 웹/모바일 신규",
+        per: "100%",
+        detail: "UI/UX디자인, 웹표준마크업",
+        tool: "Photoshop, Illustrator, Dreamweaver",
         skill: "HTML, CSS, Javascript"
       },
     
@@ -154,8 +214,28 @@ export const designText = [
   },
   {
     img: des04,
-    tit: "이벤트 랜딩페이지 디자인"
+    tit: "이벤트 팝업 디자인"
   },
+  {
+    img: des05,
+    tit: "이벤트 페이지 디자인"
+  },
+  {
+    img: des06,
+    tit: "랜딩페이지 디자인"
+  },
+  {
+    img: des07,
+    tit: "랜딩페이지 디자인"
+  },
+  {
+    img: des08,
+    tit: "랜딩페이지 디자인"
+  },
+  {
+    img: des09,
+    tit: "랜딩페이지 디자인"
+  }
 ]
 
 export const contactText = [
