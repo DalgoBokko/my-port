@@ -19,6 +19,15 @@
         margin-bottom: 16px;
         text-indent: -0.26vw;
 
+        @media (max-width: 800px){ 
+            width: 100%;
+            margin-bottom: 0;
+            font-size: 30px;
+            height: auto;
+            top: 68px;
+            background-color: var(--mainBg-color);
+        }
+
         em {
             font-size: 1.25rem;
             font-weight: 400;
@@ -36,6 +45,12 @@
             background-color: var(--subBg100);
             padding: 1.5rem;
             margin-right: 20px;
+
+            @media (max-width: 800px){ 
+                width: 360px;
+                margin-right: 15px;
+
+            }
 
             &.p1 {
                 background-color: var(--subBg100);
@@ -79,7 +94,9 @@
                 height: 580px;
                 overflow-y: scroll;
                 
-                
+                @media (max-width: 800px){ 
+                    height: 460px;
+                }
 
                 img {
                     border-radius: 5px;
