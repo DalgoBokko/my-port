@@ -91,11 +91,11 @@
             .img {
                 display: block;
                 transition: margin-top 0.3s;
-                height: 580px;
+                height: 530px;
                 overflow-y: scroll;
                 
                 @media (max-width: 800px){ 
-                    height: 460px;
+                    height: 450px;
                 }
 
                 img {
